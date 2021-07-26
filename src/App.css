@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background-image: url('./images/marek-piwnicki.jpg');
+    background-image: url('./images/kurisu.jpg');
     background-size: cover;
     margin: 0;
     padding: 0 20px;
@@ -14,4 +14,11 @@ body {
 * {
     font-family: 'Catamaran', sans-serif;
     box-sizing: border-box;
+}
+
+@media only screen and (max-width: 1024px) {
+    /* For mobile phones: */
+    body {
+        background-image: url('./images/marek-piwnicki.jpg');
+    }
 }
