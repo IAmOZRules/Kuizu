@@ -46,8 +46,6 @@ const App = () => {
 
             // Increment score if answer is correct
             if (correct) {
-                console.log(answer);
-
                 setScore(prev => prev + 1)
             }
 
