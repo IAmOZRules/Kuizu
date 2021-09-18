@@ -4,7 +4,7 @@ Trying out TypeScript with React by making this Quiz App.
 
 The questions are fetched using the [Open Trivia DB API](https://opentdb.com/api_config.php).
 
-### Find the hosted version of this app [HERE](https://react-ts-quiz-nu.vercel.app/).
+### Find the hosted version of this app [HERE](https://kuizu.vercel.app/).
 
 ## How to use this app:
 - Go figure, I guess.
